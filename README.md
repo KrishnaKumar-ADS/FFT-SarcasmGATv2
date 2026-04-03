@@ -207,7 +207,7 @@ Code split:
 
 ```
 FFT-SarcasmGATv2/
-├── MultiModal_Sarcasm_HPO_Final_(4).ipynb   # Main notebook (28 cells)
+├── FFT_Guided_MultiModal_Sarcasm.ipynb   # Main notebook (28 cells)
 ├── README.md                                 # This file
 └── Research-Paper PDF
 ```
